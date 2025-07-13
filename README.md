@@ -1,2 +1,2 @@
-This is the test repository project!
+This is a flask-based application test project!
 
