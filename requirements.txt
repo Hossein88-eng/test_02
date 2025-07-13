@@ -1,0 +1,5 @@
+ipykernel
+flask
+#jupyterlab
+#flask-cors
+#requests
